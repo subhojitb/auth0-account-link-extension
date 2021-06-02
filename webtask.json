@@ -1,9 +1,9 @@
 {
-  "title": "Auth0 Account Link",
-  "name": "auth0-account-link",
-  "version": "2.6.4",
-  "preVersion": "2.6.3",
-  "author": "auth0",
+  "title": "Sears Auth0 Account Link",
+  "name": "sears-auth0-account-link",
+  "version": "1.0.0",
+  "preVersion": "1.0.0",
+  "author": "subhojitb",
   "description":
     "This extension gives Auth0 customers the ability to allow their users to link their accounts",
   "type": "application",
